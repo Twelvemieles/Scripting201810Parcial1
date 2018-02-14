@@ -10,6 +10,7 @@ public class Ball : MonoBehaviour
     }
 
     // Use this for initialization
+
     private void Start()
     {
         rigidbody = GetComponent<Rigidbody>();
