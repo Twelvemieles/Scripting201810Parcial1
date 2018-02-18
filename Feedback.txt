@@ -1,0 +1,18 @@
+Feedback
+
+Componente Teórico (0.8)
+1. Ojo, los vectores perpendiculares no "apuntan al mismo lado". Esos son los paralelos. Además, en el numeral 'a' qué quiere decir "30º en depresión"? Son 30º, sí, pero, respecto de qué? (0.1)
+2. La "sensación del mundo real" no tiene nada que ver con una proyección para encontrar colliders (0.0)
+3. Para el numeral 'c', la respuesta satisface simular que un rigidbody entre a una superficie viscosa, más no propone cómo simular esa superficie, lo cual era la pregunta. No obstante, la descripción es acertada. (0.2).
+4. OK (0.5)
+
+Componente Práctico (1.2)
+1. No se visualiza la cantidad de vidas del jugador (0.5)
+2. No existen tipos de bloque; sino uno único al que se reasigna la cantidad de golpes. Funciona, pero no fue lo pedido (0.5)
+3. El controlador no determina cuándo el jugador gana o pierde el juego (0.5)
+* Faltó la disminución de vidas.
+* Si pierdo una vida, el juego no reinicia y no puedo seguir jugando.
+* La asignación de cantidad de golpes para los bloques es aleatoria; no por tipos como se pidió.
+* Se descuenta 0.3 por no usar OOP en los bloques.
+
+Total: 2.0
